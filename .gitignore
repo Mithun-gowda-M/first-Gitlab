@@ -1,0 +1,21 @@
+# Operating System Artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Git Lab execution test directories and scratch
+scratch/
+test_runs/
+git-demo01/
+git-release-demo/
+remote.git/
+prog02/
+program02/
+
+# Python cache & logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
